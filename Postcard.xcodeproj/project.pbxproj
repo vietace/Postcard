@@ -13,6 +13,8 @@
 		67C150321A0C738800664FC3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67C150311A0C738800664FC3 /* Images.xcassets */; };
 		67C150351A0C738800664FC3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 67C150331A0C738800664FC3 /* LaunchScreen.xib */; };
 		67C150411A0C738800664FC3 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C150401A0C738800664FC3 /* PostcardTests.swift */; };
+		67C1504D1A1355EB00664FC3 /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 67C1504C1A1355EB00664FC3 /* SagradaFamilia.jpeg */; };
+		67C1504F1A13643700664FC3 /* einstein.gif in Resources */ = {isa = PBXBuildFile; fileRef = 67C1504E1A13643700664FC3 /* einstein.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		67C1503A1A0C738800664FC3 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		67C1503F1A0C738800664FC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		67C150401A0C738800664FC3 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		67C1504C1A1355EB00664FC3 /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
+		67C1504E1A13643700664FC3 /* einstein.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = einstein.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		67C150281A0C738800664FC3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				67C1504E1A13643700664FC3 /* einstein.gif */,
+				67C1504C1A1355EB00664FC3 /* SagradaFamilia.jpeg */,
 				67C150291A0C738800664FC3 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				67C150301A0C738800664FC3 /* Main.storyboard in Resources */,
+				67C1504F1A13643700664FC3 /* einstein.gif in Resources */,
+				67C1504D1A1355EB00664FC3 /* SagradaFamilia.jpeg in Resources */,
 				67C150351A0C738800664FC3 /* LaunchScreen.xib in Resources */,
 				67C150321A0C738800664FC3 /* Images.xcassets in Resources */,
 			);
